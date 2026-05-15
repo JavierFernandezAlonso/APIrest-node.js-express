@@ -40,7 +40,7 @@ Funcionalidades obligatorias
    
 El alumnado deberá crear un servidor con Express que funcione correctamente en el puerto 3000. <br>
 La ruta principal deberá responder con un mensaje similar a: API de TecnoAula Formación funcionando correctamente. 
-<br>
+
 2. Obtener todos los cursos
 
 Crear un endpoint que permita obtener el listado completo de cursos. <br>
