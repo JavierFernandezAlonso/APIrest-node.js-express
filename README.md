@@ -110,8 +110,13 @@ La aplicación deberá cumplir los siguientes requisitos:
 
 ## Endpoints mínimos 🔚
 
-Método           Ruta             Descripción <br>
-
+Método                  Ruta                               Descripción <br>
+GET                     /                                  Comprobar que la API funciona 
+GET                     /api/cursos                        Obtener todos los cursos
+GET                     /api/cursos/:id                    Obtener un curso por ID 
+POST                    /api/cursos                        Crear un nuevo curso 
+PUT                     /api/cursos/:id                    Modificar un curso existente 
+DELETE                  /api/cursos/:id                    Eliminar un curso
 
 
 ## Requisitos opcionales ⭐
@@ -129,3 +134,7 @@ Se valorará positivamente añadir alguna de estas mejoras:
 ● Crear una pequeña interfaz React que consuma esta API.
 
 ## Tecnologías previstas 📚
+- Visual Studio Code
+- Node.js
+- Express
+- Postman
