@@ -110,13 +110,12 @@ La aplicación deberá cumplir los siguientes requisitos:
 
 ## Endpoints mínimos 🔚
 
-Método                  Ruta                               Descripción <br>
-GET                     /                                  Comprobar que la API funciona 
-GET                     /api/cursos                        Obtener todos los cursos
-GET                     /api/cursos/:id                    Obtener un curso por ID 
-POST                    /api/cursos                        Crear un nuevo curso 
-PUT                     /api/cursos/:id                    Modificar un curso existente 
-DELETE                  /api/cursos/:id                    Eliminar un curso
+GET &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Comprobar que la API funciona <br>
+GET &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /api/cursos  &nbsp;&nbsp;&nbsp;&nbsp; Obtener todos los cursos<br>
+GET &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /api/cursos/:id &nbsp;&nbsp;&nbsp;&nbsp; Obtener un curso por ID <br>
+POST &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /api/cursos &nbsp;&nbsp;&nbsp;&nbsp; Crear un nuevo curso <br>
+PUT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  /api/cursos/:id &nbsp;&nbsp;&nbsp;&nbsp; Modificar un curso existente <br>
+DELETE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /api/cursos/:id &nbsp;&nbsp;&nbsp;&nbsp; Eliminar un curso
 
 
 ## Requisitos opcionales ⭐
